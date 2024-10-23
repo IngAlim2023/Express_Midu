@@ -1,0 +1,19 @@
+body{
+    padding: 15px;
+}
+.card-b{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    background-color: #fafafa;
+    border-radius: 20px;
+    padding: 15px;
+    box-shadow: 0 0 2px 2px  rgba(201, 197, 197, 0.849);
+}
+
+.cardBody img{
+    width: 200px;
+    border-radius: 15px;
+}
